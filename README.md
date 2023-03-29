@@ -27,12 +27,13 @@ Solution referenced from: https://stackoverflow.com/questions/54565484run-two-fu
 
 My second attempt at learning is to combine both the receiver and transmitter functions into one code. Under the same simple communication folder, the set.ino file basically shows how both functions work together, video below:
 
-<video src='https://www.youtube.com/embed/9X5JQ6LJLFM' width=180>
+https://user-images.githubusercontent.com/90389913/228522089-fe4142e8-5541-4d30-b9f3-733aea70b20b.mp4
 
 Plans for the future:
     - To intergrate a oled display so as to remove the need for a serial monitor.
     - To add buttons that sends simple text like "Hello" or certain coded messages.
     - To add sensors so as to get data like temperature or humidity so as to determine if certain locations are raining or not.
     - To create a personal 
+
 
 
