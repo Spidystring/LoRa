@@ -35,7 +35,7 @@ Plans for the future:
 - To intergrate a oled display so as to remove the need for a serial monitor.
 - To add buttons that sends simple text like "Hello" or certain coded messages.
 - To add sensors so as to get data like temperature or humidity so as to determine if certain locations are raining or not.
-- To create a personal 
+- To create a personal communication device
 
 
 
